@@ -1,2 +1,2 @@
 # cra-react-deploy
-Try to deploy whit heroku
+Try to deploy with heroku
